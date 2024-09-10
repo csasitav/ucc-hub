@@ -9,12 +9,17 @@
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
+    <groupId>com.itextpdf</groupId>
+    <artifactId>itextpdf</artifactId>
+    <version>5.5.13.4</version>
+  </dependency>
+    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
+    </dependencies>
   <build>
     <plugins>
       <plugin>
