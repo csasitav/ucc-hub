@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Java Project Deployment in Webapp using Tomcat</h2>
 </body>
 </html>
